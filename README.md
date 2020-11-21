@@ -9,4 +9,4 @@ second message
 branching_1
 
 
-This is Branch 1
+This is the main branch

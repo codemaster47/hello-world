@@ -3,4 +3,4 @@ hope it works
 
 Automating
 
-Now we are uploading
+Now we are uploading with the right project name
